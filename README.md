@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+
+I'll be using GitHub to save project code in the future.
